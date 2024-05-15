@@ -67,7 +67,7 @@
  - OTP via WA dan Email
 ```
 # Halaman Administrator
-![img](bisnis/kontributor.png) 
+![img](bisnis/4.png) 
 ```bash
  - Dashboard
  - Menu Utama
